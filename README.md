@@ -1,5 +1,5 @@
-Hey there!
+ ![Twitter](https://img.shields.io/badge/%20-owln_ai-black?style=for-the-badge&color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff)
+![Linkedin](https://img.shields.io/badge/%20-unaimengual-black?style=for-the-badge&color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff")
+![Discord](https://img.shields.io/badge/%20-owlnai%230001-black?style=for-the-badge&color=14171A&labelColor=000000&logo=discord&logoColor=ffffff")
 
-I'm Unai, Spanish developer who loves everything on the web from a11y to PWAs to WASM. However, I love writing stuff for the terminal from time to time.
-
-You can reach me out on Discord (owlnai#0001).
+![Github stats](https://github-readme-stats.vercel.app/api?username=owlnai&show_icons=true&count_private=true)
