@@ -1,5 +1,4 @@
 [![Twitter](https://img.shields.io/badge/%20-owln_ai-black?style=for-the-badge&color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/owln_ai)
-[![Linkedin](https://img.shields.io/badge/%20-unaimengual-black?style=for-the-badge&color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff")](https://linkedin.com/in/unaimengual)
 ![Discord](https://img.shields.io/badge/%20-unai%230001-black?style=for-the-badge&color=14171A&labelColor=000000&logo=discord&logoColor=ffffff")
 
 Web developer focused on front-end and serverless technologies, with an emphasis in performant, accesible and high-quality products.
