@@ -2,4 +2,4 @@
 
 Hi there. I'm Unai, also known as owlnai. I'm a Software Engineer focused on web development, "serverless" technologies and PostgreSQL databases. 
 
-You can reach me out via (my contact form)[https://owln.ai/contact]
+You can reach me out via [my contact form](https://owln.ai/contact)
