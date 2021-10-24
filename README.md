@@ -5,5 +5,3 @@ Right now, I’m in college in the middle of a degree. From time to time, I work
 Outside coding, my main interests include photography, swimming and discovering new music genres.
 
 You can reach me out via [my contact form](https://owln.ai/contact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owlnai&layout=compact)
