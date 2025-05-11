@@ -9,7 +9,6 @@ While I'm proficient across various frameworks and libraries, I have a special a
 **Some of my values**
 
 * Be kind.
-* Design is not just what it looks like and feels like. Design is how it works
 * Tradition is the illusion of permanence.
 * Observation is a dying art.
 * [File over app](https://stephango.com/file-over-app).
