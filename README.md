@@ -1,6 +1,22 @@
-![banner](https://github.com/user-attachments/assets/4c995250-b996-49d9-b90d-9e3ab0a9d62b)
-Hi there 👋 
+![banner](/ghbanner.jpg)
 
-My name is Unai, known on the Internet as owlnai because I like owls. I'm a full stack developer and I use a variety of frameworks and libraries, but my go-to are Nuxt and Vue.js. 
+Hey! I'm owlnai but you can call me Unai. My nickname originates from "owl" and "Unai".
 
-If you want to collaborate or chat, drop me a message!
+I'm a Full Stack Developer based in Spain 🇪🇸, currently working at **MRM Spain** for global brands.
+
+While I'm proficient across various frameworks and libraries, I have a special affinity for the **Nuxt** and **Vue.js**.
+
+**Some of my values**
+
+* Be kind.
+* Design is not just what it looks like and feels like. Design is how it works
+* Tradition is the illusion of permanence.
+* Observation is a dying art.
+* [File over app](https://stephango.com/file-over-app).
+
+**Let's Connect:**
+
+* 🔗 LinkedIn: [in/owlnai](www.linkedin.com/in/owlnai)
+* 🌐 Personal website: [owln.ai](https://owln.ai)
+
+If you wish to contact me privately, you can contact me at [Bluesky's @owlnai.com](https://bsky.app/profile/owlnai.com)
