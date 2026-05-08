@@ -13,7 +13,7 @@ While I'm proficient across various frameworks and libraries, I have a special a
 
 **Let's Connect:**
 
-* 🔗 LinkedIn: [in/owlnai](www.linkedin.com/in/owlnai)
+* 🔗 LinkedIn: [in/owlnai](https://www.linkedin.com/in/owlnai)
 * 🌐 Personal website: [owlnai.com](https://owln.ai)
 
 If you wish to contact me privately, you can contact me at [Bluesky's @owlnai.com](https://bsky.app/profile/owlnai.com)
